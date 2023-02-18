@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "caniuse-lite": "^1.0.30001456",
     "next": "11.0.0",
     "react": "17.0.2",
     "react-countdown-circle-timer": "^2.5.3",
